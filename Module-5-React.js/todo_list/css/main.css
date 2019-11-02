@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 960px;
+  background-color: lightgray;
+}
+
+#root {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+}
+
+.todo-list {
+  margin-top: 3rem;
+  padding: 30px;
+  display: flex;
+  flex-flow: column nowrap;
+  font-size: 1.3rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+.todo-list__header {
+  text-align: center;
+}
+
+.todo-list__item {
+  list-style-type: circle;
+}
+
+.todo-list__item--red {
+  color: red;
+}
