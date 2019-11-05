@@ -7,6 +7,7 @@
 
 ### Module 2 JavaScript
 [Homework week 2](https://github.com/zion86/Social-Hackers-Academy-Coding-School/blob/master/Module-2-JavaScript/week_2/js_week_1.js) |
+[Homework week 3](https://github.com/zion86/Social-Hackers-Academy-Coding-School/blob/master/Module-2-JavaScript/week_3/js_week_2.js) |
 
 ### Module 4 Databases
 [Homework week 1](https://github.com/zion86/Social-Hackers-Academy-Coding-School/blob/master/Module-4-Databases/week1/world-queries.txt) |
