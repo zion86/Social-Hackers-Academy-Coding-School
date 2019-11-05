@@ -13,7 +13,7 @@
 [Homework week 6](https://github.com/zion86/Social-Hackers-Academy-Coding-School/blob/master/Module-2-JavaScript/week_6/script.js) |
 [Homework week 7](https://github.com/zion86/Social-Hackers-Academy-Coding-School/blob/master/Module-2-JavaScript/week_7/main.js) |
 [Homework week 8](https://github.com/zion86/Social-Hackers-Academy-Coding-School/blob/master/Module-2-JavaScript/week_8/main.js) |
-[Homework week 9](https://github.com/zion86/Social-Hackers-Academy-Coding-School/blob/master/Module-2-JavaScript/week_9/main.js)
+[Homework week 9](https://zion86.github.io/Social-Hackers-Academy-Coding-School/Module-2-JavaScript/week_9/index.html)
 
 ### Module 4 Databases
 [Homework week 1](https://github.com/zion86/Social-Hackers-Academy-Coding-School/blob/master/Module-4-Databases/week1/world-queries.txt) |
