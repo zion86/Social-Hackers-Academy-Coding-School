@@ -8,7 +8,7 @@
 ### Module 2 JavaScript
 [Homework week 2](https://github.com/zion86/Social-Hackers-Academy-Coding-School/blob/master/Module-2-JavaScript/week_2/js_week_1.js) |
 [Homework week 3](https://github.com/zion86/Social-Hackers-Academy-Coding-School/blob/master/Module-2-JavaScript/week_3/js_week_2.js) |
-[Homework week 4](https://github.com/zion86/Social-Hackers-Academy-Coding-School/blob/master/Module-2-JavaScript/week_4/script.js) |
+[Homework week 4](https://zion86.github.io/Social-Hackers-Academy-Coding-School/Module-2-JavaScript/week_4/index.html) |
 [Homework week 5](https://github.com/zion86/Social-Hackers-Academy-Coding-School/blob/master/Module-2-JavaScript/week_5/script.js) |
 
 [Homework week 6](https://github.com/zion86/Social-Hackers-Academy-Coding-School/blob/master/Module-2-JavaScript/week_6/script.js) |
