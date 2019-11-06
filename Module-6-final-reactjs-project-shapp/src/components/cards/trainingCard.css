@@ -1,0 +1,48 @@
+.trainingCard > * > * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+.trainingCard {
+  margin-bottom: 3px;
+  width: 950px;
+  min-height: 150px;
+  display: flex;
+  font-size: 18px;
+  color: #787878;
+  background-color: #ffffff;
+}
+
+.trainingCard__left {
+  padding: 10px;
+  flex: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.trainingCard__center {
+  flex: 550px;
+  display: flex;
+  flex-flow: row wrap;
+  align-content: space-around;
+}
+.trainingCard__right {
+  flex: 250px;
+  display: flex;
+  flex-flow: row wrap;
+  align-content: space-around;
+}
+
+.trainingCard__text {
+  width: 100%;
+}
+
+.trainingCard__image {
+  max-width: 100%;
+}
+
+.flag {
+  margin: 0 5px;
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "photo": "./images/memberCard/henry.png",
+    "name": "Name 1",
+    "surname": "Surname 1",
+    "telephone": "+30 Telephone",
+    "address": ["45 address", "16584", "Athens", "Greece"],
+    "organisation": "Organisation name",
+    "position": "position ?",
+
+    "postCode": "123 45",
+    "dateOfBirth": "xx.xx.xxxx",
+    "phoneIcon": "./images/icons/phone.png",
+    "telephone1": "+30 Telephone",
+    "email": "emailname@box.com",
+    "website": "www.websitename.com",
+    "organisationFeesPaid": false,
+    "city": "City name",
+    "country": "Country name"
+  },
+
+  {
+    "id": 2,
+    "photo": "./images/memberCard/james.png",
+    "name": "Name 2",
+    "surname": "Surname 2",
+    "telephone": "+30 Telephone",
+    "address": ["45 address", "16584", "Athens", "Greece"],
+    "organisation": "Organisation name",
+    "position": "position ?",
+
+    "postCode": "123 45",
+    "dateOfBirth": "xx.xx.xxxx",
+    "phoneIcon": "./images/icons/phone.png",
+    "telephone1": "+30 Telephone",
+    "email": "emailname@box.com",
+    "website": "www.websitename.com",
+    "organisationFeesPaid": false,
+    "city": "City name",
+    "country": "Country name"
+  },
+
+  {
+    "id": 3,
+    "photo": "./images/memberCard/jules.png",
+    "name": "Name 3",
+    "surname": "Surname 3",
+    "telephone": "+30 Telephone",
+    "address": ["45 address", "16584", "Athens", "Greece"],
+    "organisation": "Organisation name",
+    "position": "position ?",
+
+    "postCode": "123 45",
+    "dateOfBirth": "xx.xx.xxxx",
+    "phoneIcon": "./images/icons/phone.png",
+    "telephone1": "+30 Telephone",
+    "email": "emailname@box.com",
+    "website": "www.websitename.com",
+    "organisationFeesPaid": false,
+    "city": "City name",
+    "country": "Country name"
+  },
+
+  {
+    "id": 4,
+    "photo": "./images/memberCard/Mimie.png",
+    "name": "Name 4",
+    "surname": "Surname 4",
+    "telephone": "+30 Telephone",
+    "address": ["45 address", "16584", "Athens", "Greece"],
+    "organisation": "Organisation name",
+    "position": "position ?",
+
+    "postCode": "123 45",
+    "dateOfBirth": "xx.xx.xxxx",
+    "phoneIcon": "./images/icons/phone.png",
+    "telephone1": "+30 Telephone",
+    "email": "emailname@box.com",
+    "website": "www.websitename.com",
+    "organisationFeesPaid": false,
+    "city": "City name",
+    "country": "Country name"
+  },
+
+  {
+    "id": 5,
+    "photo": "./images/memberCard/Nana.png",
+    "name": "Name 5",
+    "surname": "Surname 5",
+    "telephone": "+30 Telephone",
+    "address": ["45 address", "16584", "Athens", "Greece"],
+    "organisation": "Organisation name",
+    "position": "position ?",
+
+    "postCode": "123 45",
+    "dateOfBirth": "xx.xx.xxxx",
+    "phoneIcon": "./images/icons/phone.png",
+    "telephone1": "+30 Telephone",
+    "email": "emailname@box.com",
+    "website": "www.websitename.com",
+    "organisationFeesPaid": false,
+    "city": "City name",
+    "country": "Country name"
+  }
+]

@@ -1,0 +1,70 @@
+.memberCard > * > * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+.memberCardFull {
+  margin-bottom: 3px;
+  width: 950px;
+  font-size: 18px;
+  color: #787878;
+  background-color: #ffffff;
+}
+
+.memberCard {
+  display: flex;
+}
+
+.memberCard__left {
+  padding: 10px;
+  flex: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.memberCard__center {
+  flex: 550px;
+  display: flex;
+  flex-flow: row wrap;
+  align-content: space-around;
+}
+.memberCard__right {
+  flex: 250px;
+  display: flex;
+  flex-flow: row wrap;
+  align-content: space-around;
+}
+
+.memberCard__text {
+  width: 100%;
+  padding-bottom: 15px;
+}
+
+.btn {
+  padding: 3px 5px;
+  color: white;
+  text-decoration: none;
+  border-radius: 3px;
+  background-color: #4a2b3a;
+}
+
+.memberCard__image {
+  max-width: 100%;
+  align-self: flex-start;
+}
+
+.phoneIcon {
+  width: 20px;
+  height: 20px;
+}
+
+.btnGoBack {
+  width: 250px;
+  margin: 20px;
+  padding: 5px;
+  font-size: 18px;
+  background-color: #45303c;
+  color: white;
+}
